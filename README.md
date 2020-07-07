@@ -1,1 +1,0 @@
-# flutter-covid-stats-tracker
